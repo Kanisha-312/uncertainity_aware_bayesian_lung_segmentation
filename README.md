@@ -116,12 +116,9 @@ ___
 
 ### Authors
 
-**Aishwarya Virigineni**  
-Master’s in Artificial Intelligence, University at Buffalo
+**Aishwarya Virigineni**  Master’s in Artificial Intelligence, University at Buffalo
 
-**Kanisha Raja**  
-Master’s in Artificial Intelligence, University at Buffalo
+**Kanisha Raja**  Master’s in Artificial Intelligence, University at Buffalo
 
-**Nithya Kaandru**  
-Master’s in Artificial Intelligence, University at Buffalo
+**Nithya Kaandru**  Master’s in Artificial Intelligence, University at Buffalo
 
